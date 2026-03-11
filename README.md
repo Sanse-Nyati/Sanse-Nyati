@@ -12,20 +12,29 @@
 
 # 🚀 About Me
 
-```javascript
-const andrew = {
-    username: "Sanse-Nyati",
-    role: "Full Stack Web Developer",
-    code: ["JavaScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "Tailwind", "Bootstrap"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    },
-    currentlyLearning: ["Cloud", "Advanced Backend Systems"],
-    funFact: "I turn ideas into real world web applications"
-};
-```
+💻 I'm **Andrew**, a passionate **Full-Stack Web Developer** focused on building modern, scalable, and user-friendly web applications.
+
+I enjoy transforming ideas into real digital products using modern web technologies. My goal is to create solutions that are not only functional but also efficient and impactful.
+
+### 👨‍💻 What I Do
+
+* 🌐 Build **full-stack web applications**
+* ⚡ Develop **REST APIs and backend systems**
+* 🎨 Create **responsive and modern UI**
+* 🗄️ Design and manage **databases**
+
+### 🌱 Currently Learning
+
+* Cloud technologies
+* Advanced backend architecture
+* Performance optimization
+
+### 🎯 Goals
+
+* Contribute to **open source**
+* Build **impactful software products**
+* Collaborate with **developers around the world**
+
 
 ---
 
