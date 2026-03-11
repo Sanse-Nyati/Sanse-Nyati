@@ -3,12 +3,12 @@
 # ⚡ Hello, I'm Andrew!
 ### Senior Full-Stack Web Developer | UI/UX Enthusiast
 
-<!-- Dynamic Typing SVG Header -->
+<!-- Fixed Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
 
 ---
 
-<!-- Social Links with Interactive Badges -->
+<!-- Fixed Social Badges -->
 [![LinkedIn](https://img.shields.io)](https://linkedin.com)
 [![Twitter](https://img.shields.io)](https://twitter.com)
 [![Portfolio](https://img.shields.io)](https://afande.vercel.app)
@@ -16,7 +16,7 @@
 </div>
 
 ### 🚀 Overview
-- 🔭 **Current Focus:** Leading development for [Verizon Phones].
+- 🔭 **Current Focus:** Leading development for **Verizon Phones**.
 - 🛠️ **Expertise:** Architecture-first approach to Full-Stack development.
 - 🌱 **Learning:** Currently diving deep into Web3 and AI integration.
 - 💬 **Collaboration:** Open to discussing high-impact open-source projects.
@@ -53,6 +53,7 @@
 ### 📊 Real-Time Analytics
 
 <div align="center">
+  <!-- Replace AFANDE with your exact GitHub Username -->
   <img src="https://github-readme-stats.vercel.app" height="170" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app" height="170" alt="Languages" />
 </div>
@@ -62,13 +63,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com" alt="Streak" />
 </div>
-
----
-
-### 📂 Recent Open Source Activity
-<!-- START_SECTION:activity -->
-*Loading recent activity...*
-<!-- END_SECTION:activity -->
 
 ---
 
