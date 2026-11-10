@@ -113,7 +113,7 @@ I enjoy transforming ideas into real digital products using modern web technolog
 
 * 💼 GitHub: https://github.com/Sanse-Nyati
 * 💼 LinkedIn: 🤖🤖🤖🤖
-* 🌍 Portfolio: afande.vercel.app
+* 🌍 Portfolio: https://afande.vercel.app
 * 📧 Email: afandeandrewj@gmail.com
 
 ---
